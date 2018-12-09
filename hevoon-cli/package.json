@@ -1,7 +1,7 @@
 {
-  "name": "test-npm",
-  "version": "1.0.0",
-  "description": "",
+  "name": "hevoon-cli",
+  "version": "0.1.0",
+  "description": "hevoon-cli stage",
   "main": "index.js",
   "bin": {
     "hevoon": "bin/hevoon-cli"
