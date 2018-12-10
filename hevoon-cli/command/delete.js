@@ -12,7 +12,7 @@ module.exports = () => {
 
 
     if (config.tpl[tplName]) {
-      config.tpl[tplName] = ''
+      config.tpl[tplName] = undefined;
     } else {
       console.log(chalk.red('该模板不存在!'))
       process.exit()
