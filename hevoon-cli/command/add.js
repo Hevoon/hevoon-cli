@@ -10,7 +10,7 @@ module.exports = () => {
 
   
       let tplName = yield prompt('项目模板(id): ')
-      let gitUrl='git@github.com:Hevoon/vue-stage-template.git'
+      let gitUrl='git@github.com:Hevoon/hevoon-cli-template.git'
       let branch='master'
      // 接收用户输入的参数
  
